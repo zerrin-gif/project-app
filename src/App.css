@@ -1,0 +1,30 @@
+.header {
+  text-align: center;
+}
+
+.form {
+  box-shadow: 2px 2px 3px 3px #ccc;
+  border: 2px #eee;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.contacts {
+  margin-top: 20px;
+}
+
+.App {
+  margin-top: 10%;
+  box-shadow: 2px 2px 3px 3px #ccc;
+  border: 2px #eee;
+  padding: 20px;
+}
+
+.container {
+  margin-bottom: 20px;
+}
+
+td,
+th {
+  padding: 5px;
+}
